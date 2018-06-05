@@ -10,7 +10,7 @@ public class TestCases2 {
 
 @Test
 	public static void TC6() {
-		System.out.println("qaplanet6, lab6666");
+		System.out.println("qaplanet6, lab6666444");
 
 	}
 
