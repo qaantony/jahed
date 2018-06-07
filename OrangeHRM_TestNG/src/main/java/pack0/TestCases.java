@@ -13,7 +13,7 @@ public class TestCases {
 	}
 
 	@Test
-	public  void TC2() {
+	public  void TC2() throws Throwable{
 		System.out.println("qaplanet2, lab2222");
 		
 		System.setProperty("webdriver.chrome.driver", System.getProperty("user.dir")+"\\lib\\chromedriver.exe");
