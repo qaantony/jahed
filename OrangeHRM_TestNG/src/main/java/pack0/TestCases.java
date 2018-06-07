@@ -6,6 +6,7 @@ public class TestCases {
 	@Test
 	public  void TC1() {
 		System.out.println("qaplanet1, lab1111");
+		System.out.println(System.getProperty("user.dir"));
 	}
 
 	@Test
